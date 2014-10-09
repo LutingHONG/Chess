@@ -1,0 +1,37 @@
+[{
+	"alt-code": "&#9812;",
+	"name": "White Queen"
+}, {
+	"alt-code": "&#9813;",
+	"name": "White King"
+}, {
+	"alt-code": "&#9814;",
+	"name": "White Rook"
+}, {
+	"alt-code": "&#9815;",
+	"name": "White Bishop"
+}, {
+	"alt-code": "&#9816;",
+	"name": "White Knight"
+}, {
+	"alt-code": "&#9817;",
+	"name": "White Pawn"
+}, {
+	"alt-code": "&#9818;",
+	"name": "Black Queen"
+}, {
+	"alt-code": "&#9819;",
+	"name": "Black King"
+}, {
+	"alt-code": "&#9820;",
+	"name": "Black Rook"
+}, {
+	"alt-code": "&#9821;",
+	"name": "Black Bishop"
+}, {
+	"alt-code": "&#9822;",
+	"name": "Black Knight"
+}, {
+	"alt-code": "&#982;",
+	"name": "Black Pawn"
+}]
